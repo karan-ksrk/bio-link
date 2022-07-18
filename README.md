@@ -1,1 +1,1 @@
-![link-in-bio-screenshot](screenshot.png)
+![link-in-bio-screenshot](Screenshot.png)
