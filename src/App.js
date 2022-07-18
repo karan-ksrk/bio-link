@@ -15,7 +15,7 @@ function App() {
     <img class="rounded-full" alt="profile pic" src={avatar} />
 
     <p class="pt-2 text-lg font-medium">@karan-ksrk</p>
-    <p class="text-sm font-extrabold text-gray-900">Full Time developer part time awkward teenager</p>
+    <p class="text-sm font-extrabold text-gray-900">Full time developer part time awkward teenager</p>
   </div>
   <div class="my-3 grid grid-cols-5 items-center gap-4 px-4 ">
 
